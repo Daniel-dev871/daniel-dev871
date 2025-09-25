@@ -1,6 +1,6 @@
 ### Ola! Eu sou Daniel Duarte.
 
--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-dev871&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-dev871&theme=radical&show_icons=true)
 
 
 
