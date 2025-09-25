@@ -1,13 +1,17 @@
-### Ola! Eu sou Daniel Duarte.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</br>
+</div>
 
 ![daniel-dev871 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-dev871&theme=radical&show_icons=true)
+<img align="right" alt="" height="190px" src="./src/study.gif">
 #
 
 
+<img align="right" alt="" height="190px" src="./src/ghibli.gif">
 
-
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -40,13 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
+#
+
 
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-dev871/daniel-dev871/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-dev871/daniel-dev871/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
- 
- 
 </div>
