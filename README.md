@@ -5,7 +5,7 @@
 </br>
 </div>
 
-![daniel-dev871 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-dev871&theme=radical&show_icons=true)
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 #
 
