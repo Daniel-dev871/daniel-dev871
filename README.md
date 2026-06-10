@@ -54,4 +54,25 @@
 <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daniel-dev871&show_icons=true&theme=dark&icon_color=FF00F6&text_color=FFF&title_color=FF00F6&bg_color=000" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-dev871&layout=compact&theme=dark&text_color=FFF&title_color=FF00F6&bg_color=000" alt="Top Languages" />
+</div>
+
+---
+
+## 🐍 Meu Labirinto de Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-dev871/daniel-dev871/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-dev871/daniel-dev871/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daniel-dev871/daniel-dev871/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
