@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram" />
   </a>
 </div>
----
 
 ## 👨‍💻 Sobre Mim
 
@@ -28,7 +27,6 @@
 * 🎯 **Objetivo:** Contribuir em projetos reais, colaborar com times de tecnologia e evoluir profissionalmente.
 
 <br />
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -63,7 +61,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br />
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -72,7 +69,6 @@
 </div>
 
 <br />
----
 
 ## 🐍 Gráfico de Contribuições
 
