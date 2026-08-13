@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="mailto:danieldev871@gmail.com">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="E-mail" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-duarte-020625306">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/daniel.dev1">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram" />
   </a>
 </div>
 
