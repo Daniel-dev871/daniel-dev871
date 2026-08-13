@@ -62,15 +62,7 @@
 
 <br />
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-dev871&theme=dark&background=0d1117&border=00B4D8&dates=ffffff&ring=00B4D8&fire=00B4D8&currStreakNum=00B4D8&sideNums=ffffff&sideTitle=ffffff" alt="GitHub Streak" />
-</div>
-
-<br />
-
-## 🐍 Gráfico de Contribuições
+## 🐍 Minhas Contribuições
 
 <div align="center">
   <picture>
