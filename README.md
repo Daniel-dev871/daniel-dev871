@@ -30,7 +30,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img align="right" alt="Ghibli" height="180px" src="./src/ghibli.gif" />
+<img align="right" alt="Ghibli" height="220px" src="./src/ghibli.gif" />
 
 **AI & Automação**
 <br />
