@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=550&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Software+Developer+In+Training;Flutter+%E2%80%A2+Java+%E2%80%A2+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=550&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Software+Developer+In+Training;Flutter+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram" />
   </a>
 </div>
-
 ---
 
 ## 👨‍💻 Sobre Mim
@@ -25,16 +24,21 @@
 <img align="right" alt="Estudando" height="170px" src="./src/study.gif" />
 
 * 🚀 **Desenvolvedor** focado em criar soluções eficientes, limpas e bem estruturadas.
-* 💻 **Atualmente:** Aprimorando conhecimentos em **desenvolvimento mobile, arquitetura de software e estruturas de dados**.
+* 💻 **Atualmente:** Aprimorando conhecimentos em **desenvolvimento mobile, inteligência artificial e estruturas de dados**.
 * 🎯 **Objetivo:** Contribuir em projetos reais, colaborar com times de tecnologia e evoluir profissionalmente.
 
 <br />
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <img align="right" alt="Ghibli" height="180px" src="./src/ghibli.gif" />
+
+**AI & Automação**
+<br />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br />
 
 **Mobile**
 <br />
@@ -59,7 +63,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br />
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -69,7 +72,6 @@
 </div>
 
 <br />
-
 ---
 
 ## 🐍 Gráfico de Contribuições
