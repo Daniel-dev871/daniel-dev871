@@ -61,8 +61,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Daniel-dev871&show_icons=true&theme=dark&icon_color=FF00F6&text_color=ffffff&title_color=FF00F6&bg_color=000000" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs?username=Daniel-dev871&layout=compact&theme=dark&text_color=ffffff&title_color=FF00F6&bg_color=000000" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-dev871&theme=dark&background=000000&border=FF00F6&dates=ffffff&ring=FF00F6&fire=FF00F6&currStreakNum=FF00F6&sideNums=ffffff&sideTitle=ffffff" alt="GitHub Streak" />
 </div>
 ---
 
