@@ -1,29 +1,17 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=550&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Software+Developer;Flutter+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=550&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Software+Developer;Flutter+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+FastAPI" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
-
-<div align="center">
-  <a href="mailto:danieldev871@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-111827?style=for-the-badge&logo=gmail&logoColor=00B4D8" alt="E-mail" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-duarte-020625306">
-    <img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00B4D8" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/daniel.dev1">
-    <img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=00B4D8" alt="Instagram" />
-  </a>
-</div>
 
 ## Sobre Mim
 
 <img align="right" alt="Estudando" height="170px" src="./src/study.gif" />
 
 * **Desenvolvedor** focado em criar soluções eficientes, limpas e bem estruturadas.
-* **Atualmente:** Aprimorando conhecimentos em **desenvolvimento mobile, inteligência artificial e estruturas de dados**.
+* **Atualmente:** Aprimorando conhecimentos em **desenvolvimento mobile, APIs RESTful, integração de inteligência artificial e estruturas de dados**.
 * **Objetivo:** Contribuir em projetos reais, colaborar com times de tecnologia e evoluir profissionalmente.
 
 <br />
@@ -32,9 +20,15 @@
 
 <img align="right" alt="Ghibli" height="220px" src="./src/ghibli.gif" />
 
-**AI & Automação**
+**Back-end, APIs & IA**
 <br />
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-111827?style=for-the-badge&logo=uvicorn&logoColor=499848)
+![Gemini AI](https://img.shields.io/badge/Google%20Gemini-111827?style=for-the-badge&logo=googlecloud&logoColor=8E75B2)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 <br />
 
@@ -51,14 +45,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<br />
-
-**Back-end & Banco de Dados**
-<br />
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 <br />
 
