@@ -18,17 +18,17 @@
   </a>
 </div>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 <img align="right" alt="Estudando" height="170px" src="./src/study.gif" />
 
-* 🚀 **Desenvolvedor** focado em criar soluções eficientes, limpas e bem estruturadas.
-* 💻 **Atualmente:** Aprimorando conhecimentos em **desenvolvimento mobile, inteligência artificial e estruturas de dados**.
-* 🎯 **Objetivo:** Contribuir em projetos reais, colaborar com times de tecnologia e evoluir profissionalmente.
+* **Desenvolvedor** focado em criar soluções eficientes, limpas e bem estruturadas.
+* **Atualmente:** Aprimorando conhecimentos em **desenvolvimento mobile, inteligência artificial e estruturas de dados**.
+* **Objetivo:** Contribuir em projetos reais, colaborar com times de tecnologia e evoluir profissionalmente.
 
 <br />
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <img align="right" alt="Ghibli" height="220px" src="./src/ghibli.gif" />
 
@@ -62,7 +62,7 @@
 
 <br />
 
-## 🐍 Minhas Contribuições
+## Minhas Contribuições
 
 <div align="center">
   <picture>
