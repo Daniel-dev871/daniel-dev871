@@ -34,7 +34,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img align="right" alt="Ghibli" height="130px" src="./src/ghibli.gif" />
+<img align="right" alt="Ghibli" height="180px" src="./src/ghibli.gif" />
 
 **Mobile**
 <br />
