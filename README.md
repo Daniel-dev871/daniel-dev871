@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=550&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Software+Developer+In+Training;Flutter+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=550&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Software+Developer;Flutter+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="mailto:danieldev871@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="E-mail" />
+    <img src="https://img.shields.io/badge/-Email-111827?style=for-the-badge&logo=gmail&logoColor=00B4D8" alt="E-mail" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-duarte-020625306">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00B4D8" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/daniel.dev1">
-    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=00B4D8" alt="Instagram" />
   </a>
 </div>
 
@@ -34,38 +34,38 @@
 
 **AI & Automação**
 <br />
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
 
 <br />
 
 **Mobile**
 <br />
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2)
 
 <br />
 
 **Front-end**
 <br />
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br />
 
 **Back-end & Banco de Dados**
 <br />
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 <br />
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-dev871&theme=dark&background=000000&border=FF00F6&dates=ffffff&ring=FF00F6&fire=FF00F6&currStreakNum=FF00F6&sideNums=ffffff&sideTitle=ffffff" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-dev871&theme=dark&background=0d1117&border=00B4D8&dates=ffffff&ring=00B4D8&fire=00B4D8&currStreakNum=00B4D8&sideNums=ffffff&sideTitle=ffffff" alt="GitHub Streak" />
 </div>
 
 <br />
