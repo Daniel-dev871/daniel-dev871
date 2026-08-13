@@ -62,8 +62,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-dev871&theme=2077" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.quickdraw.workers.dev/api/top-langs?username=daniel-dev871&layout=compact&theme=dark&text_color=ffffff&title_color=FF00F6&bg_color=000000" alt="Top Languages" />
-
+  <img height="160em" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs?username=daniel-dev871&layout=compact&theme=dark&text_color=ffffff&title_color=FF00F6&bg_color=000000" alt="Top Languages" />
 ---
 
 ## 🐍 Meu Labirinto de Contribuições
