@@ -61,8 +61,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daniel-dev871&show_icons=true&theme=dark&icon_color=FF00F6&text_color=ffffff&title_color=FF00F6&bg_color=000000&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-dev871&layout=compact&theme=dark&text_color=ffffff&title_color=FF00F6&bg_color=000000&hide_progress=true" alt="Top Languages" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-dev871&theme=2077" alt="GitHub Stats" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=daniel-dev871&theme=2077" alt="Top Languages" />
 </div>
 
 ---
