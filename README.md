@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+GitHub!;ADS+Student;Cybersecurity+%26+Web+Development;Linux+%E2%80%A2+Networking+%E2%80%A2+Python" alt="Typing SVG" />
 </div>
 
----
-
 ## Sobre Mim
 
 <img align="right" alt="Estudando programação" height="170px" src="./src/study.gif" />
